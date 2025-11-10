@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+email-validator
+pytest
+pytest-cov
+mutmut
+typing-extensions
