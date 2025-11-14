@@ -30,3 +30,1858 @@
 2025-11-10 19:40:15 | INFO | fintrack.API | API inicializada e banco configurado.
 2025-11-10 19:41:13 | INFO | fintrack.API | API inicializada e banco configurado.
 2025-11-10 19:41:31 | INFO | fintrack.API | API inicializada e banco configurado.
+2025-11-13 14:45:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-13 14:45:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-13 14:45:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-13 14:45:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-13 14:45:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=10.00).
+2025-11-13 14:45:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-13 14:45:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=10.00).
+2025-11-13 14:45:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-13 14:45:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-13 14:45:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-13 14:45:53 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:45:53 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-13 14:50:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-13 14:50:34 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-13 14:50:34 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:03:26 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:12:53 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 13:12:53 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:12:53 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=120.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=30.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=200.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=50.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=10.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=1).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=8.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 13:17:33 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=1.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:17:33 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=2.00).
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:17:33 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:19:46 | ERROR | fintrack.src.repositories.category_repo | Erro ao salvar categoria: (sqlite3.OperationalError) no such table: categories
+[SQL: INSERT INTO categories (name, type) VALUES (?, ?)]
+[parameters: ('Food', 'Despesa')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-14 13:21:56 | ERROR | fintrack.src.repositories.category_repo | Erro ao salvar categoria: (sqlite3.OperationalError) no such table: categories
+[SQL: INSERT INTO categories (name, type) VALUES (?, ?)]
+[parameters: ('Food', 'Despesa')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:22:41 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 13:22:41 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 13:22:41 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 13:22:41 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 13:22:41 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 13:22:42 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 13:22:42 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 13:22:42 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:22:42 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 13:22:42 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 13:22:42 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 13:24:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=5
+2025-11-14 13:24:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=5
+2025-11-14 13:24:54 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=5
+2025-11-14 13:24:54 | INFO | fintrack.src.services.user_service | Usuário atualizado id=5
+2025-11-14 13:24:54 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=5
+2025-11-14 13:24:54 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 13:24:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=6
+2025-11-14 13:24:54 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=6
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:27:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 13:27:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 13:27:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 13:27:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:27:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 13:27:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 13:27:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:10 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:29:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=120.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=30.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=200.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=50.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=10.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=1).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=8.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 13:29:11 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=1.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=2.00).
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:29:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 13:29:11 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:29:11 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=120.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=30.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=200.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=50.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=10.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=1).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=8.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 13:41:18 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=1.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=2.00).
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_134118.csv
+2025-11-14 13:41:18 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_134118.csv
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 13:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 13:41:18 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:41:18 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 13:48:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:48:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:49:49 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:49:49 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 13:52:21 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 13:52:21 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=5
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=5
+2025-11-14 14:59:11 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_145911.csv
+2025-11-14 14:59:11 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_145911.csv
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 14:59:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 14:59:11 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 14:59:11 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=5
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=5
+2025-11-14 15:06:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_150612.csv
+2025-11-14 15:06:12 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_150612.csv
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:06:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 15:06:12 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:06:12 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=5
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=5
+2025-11-14 15:11:00 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_151100.csv
+2025-11-14 15:11:00 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_151100.csv
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:11:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 15:11:00 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:11:00 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=5
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=5
+2025-11-14 15:15:45 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_151545.csv
+2025-11-14 15:15:45 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_151545.csv
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:15:45 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 15:15:45 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:15:45 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:17:22 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:17:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:17:22 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 15:17:22 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:17:22 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 15:17:22 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:18:20 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:18:20 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 15:19:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:19:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:19:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:19:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:19:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:27:32 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:27:32 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:27:32 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:27:32 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:27:32 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:30:22 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_153022.csv
+2025-11-14 15:30:22 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_153022.csv
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:30:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 15:30:22 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:30:22 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_153423.csv
+2025-11-14 15:34:23 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_153423.csv
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:34:23 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 15:34:23 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:34:23 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria atualizada id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=2
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=3
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=3
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=3
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=4
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=4
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=4
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=5
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=30.00).
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=3
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=3, tipo=Despesa, valor=10.00).
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=5
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=5
+2025-11-14 15:35:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_153512.csv
+2025-11-14 15:35:12 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_153512.csv
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 15:35:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 15:35:12 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário atualizado id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=2
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 15:35:12 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 16:35:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_163552.csv
+2025-11-14 16:35:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163552.csv
+2025-11-14 16:35:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163552.csv
+2025-11-14 16:35:52 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_all_20251114_163552.csv
+2025-11-14 16:35:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_163552.csv
+2025-11-14 16:35:52 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_163552.csv
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=50.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:35:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 16:35:52 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 16:38:20 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_163820.csv
+2025-11-14 16:38:20 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163820.csv
+2025-11-14 16:38:20 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163820.csv
+2025-11-14 16:38:20 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_all_20251114_163820.csv
+2025-11-14 16:38:20 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_163820.csv
+2025-11-14 16:38:20 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_163820.csv
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=50.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:38:20 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 16:38:20 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:38:20 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:38:35 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_163835.csv
+2025-11-14 16:38:35 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163835.csv
+2025-11-14 16:38:35 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163835.csv
+2025-11-14 16:38:35 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_all_20251114_163835.csv
+2025-11-14 16:38:35 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_163835.csv
+2025-11-14 16:38:35 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_163835.csv
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=50.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:38:35 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 16:38:35 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:38:35 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:39:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_163934.csv
+2025-11-14 16:39:35 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163935.csv
+2025-11-14 16:39:35 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_163935.csv
+2025-11-14 16:39:35 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_all_20251114_163935.csv
+2025-11-14 16:39:35 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_163935.csv
+2025-11-14 16:39:35 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_163935.csv
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=50.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:39:35 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 16:39:35 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:39:35 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:42:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_164237.csv
+2025-11-14 16:42:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_164237.csv
+2025-11-14 16:42:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_164237.csv
+2025-11-14 16:42:37 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_all_20251114_164237.csv
+2025-11-14 16:42:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_164237.csv
+2025-11-14 16:42:37 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_164237.csv
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=50.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:42:37 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 16:42:37 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:42:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:42:48 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_164248.csv
+2025-11-14 16:42:48 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_164248.csv
+2025-11-14 16:42:48 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_all_20251114_164248.csv
+2025-11-14 16:42:48 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_all_20251114_164248.csv
+2025-11-14 16:42:48 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_164248.csv
+2025-11-14 16:42:48 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_164248.csv
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=50.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:42:48 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=50.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=20.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=5.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=15.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=7.00).
+2025-11-14 16:42:48 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=10.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação atualizada com sucesso (ID=2).
+2025-11-14 16:42:48 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=5.00).
+2025-11-14 16:54:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_165437.csv
+2025-11-14 16:54:37 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_165437.csv
+2025-11-14 16:54:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_165437.csv
+2025-11-14 16:57:37 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 16:57:37 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 16:57:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_165737.csv
+2025-11-14 16:57:37 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_165737.csv
+2025-11-14 16:57:37 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-23/test_import_reads_rows0/in.csv
+2025-11-14 16:57:37 | WARNING | fintrack.tst | hello world
+2025-11-14 17:01:06 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:01:06 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:01:06 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_170106.csv
+2025-11-14 17:01:06 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_170106.csv
+2025-11-14 17:01:06 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_170106.csv
+2025-11-14 17:01:06 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_170106.csv
+2025-11-14 17:01:06 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_170106.csv
+2025-11-14 17:01:06 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-24/test_import_reads_rows0/in.csv
+2025-11-14 17:01:06 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_170106.csv
+2025-11-14 17:01:06 | WARNING | fintrack.tst | hello world
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:04:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:04:54 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:06:11 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:06:11 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:06:11 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_170611.csv
+2025-11-14 17:06:11 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_170611.csv
+2025-11-14 17:06:11 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_170611.csv
+2025-11-14 17:06:11 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_170611.csv
+2025-11-14 17:06:11 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_170611.csv
+2025-11-14 17:06:11 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-26/test_import_reads_rows0/in.csv
+2025-11-14 17:06:11 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_170611.csv
+2025-11-14 17:06:11 | WARNING | fintrack.tst | hello world
+2025-11-14 17:10:00 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:10:00 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:10:00 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_171000.csv
+2025-11-14 17:10:00 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_171000.csv
+2025-11-14 17:10:00 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_171000.csv
+2025-11-14 17:10:00 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_171000.csv
+2025-11-14 17:10:00 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_171000.csv
+2025-11-14 17:10:00 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-27/test_import_reads_rows0/in.csv
+2025-11-14 17:10:00 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_171000.csv
+2025-11-14 17:10:00 | WARNING | fintrack.tst | hello world
+2025-11-14 17:10:22 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:10:22 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:10:22 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_171022.csv
+2025-11-14 17:10:22 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_171022.csv
+2025-11-14 17:10:22 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_171022.csv
+2025-11-14 17:10:22 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_171022.csv
+2025-11-14 17:10:22 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_171022.csv
+2025-11-14 17:10:22 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-28/test_import_reads_rows0/in.csv
+2025-11-14 17:10:22 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_171022.csv
+2025-11-14 17:10:22 | WARNING | fintrack.tst | hello world
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:14:50 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:14:50 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:17:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:02 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:17:15 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:17:15 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:18:38 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:18:38 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:02 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:24:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:24:10 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:24:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:34:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:34:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:34:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:34:12 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-40/test_importa_ler_linhas0/in.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173412.csv
+2025-11-14 17:34:12 | INFO | fintrack.t | hello
+2025-11-14 17:34:12 | WARNING | fintrack.tst | hello world
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:35:05 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:35:05 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:35:05 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:35:05 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:35:05 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-41/test_importa_ler_linhas0/in.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173505.csv
+2025-11-14 17:35:05 | INFO | fintrack.t | hello
+2025-11-14 17:35:05 | WARNING | fintrack.tst | hello world
+2025-11-14 17:37:09 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:09 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:37:09 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:09 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:37:09 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:37:09 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:37:10 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:37:10 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:37:10 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:37:10 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 17:37:10 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173710.csv
+2025-11-14 17:37:10 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:37:10 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:38:42 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:42 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:38:43 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:38:43 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:38:43 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:38:43 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 17:38:43 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_173843.csv
+2025-11-14 17:38:43 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:38:43 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:41:17 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:17 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=5.00).
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:41:18 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:41:18 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:41:18 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:41:18 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-45/test_importa_ler_linhas0/in.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_174118.csv
+2025-11-14 17:41:18 | INFO | fintrack.t | hello
+2025-11-14 17:41:18 | WARNING | fintrack.tst | hello world
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:45:02 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:45:02 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:45:02 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:45:02 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:45:02 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_174502.csv
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_174502.csv
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_174502.csv
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_174502.csv
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_174502.csv
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-46/test_importa_ler_linhas0/in.csv
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_174502.csv
+2025-11-14 17:45:02 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_174502.csv
+2025-11-14 17:45:02 | INFO | fintrack.t | hello
+2025-11-14 17:45:02 | WARNING | fintrack.tst | hello world
+2025-11-14 17:52:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:11 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:52:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 17:52:12 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 17:52:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Receita, valor=20.00).
+2025-11-14 17:52:12 | WARNING | fintrack.TransactionService | Transação deletada (ID=2).
+2025-11-14 17:52:12 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-47/test_importa_ler_linhas0/in.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_175212.csv
+2025-11-14 17:52:12 | INFO | fintrack.t | hello
+2025-11-14 17:52:12 | WARNING | fintrack.tst | hello world
+2025-11-14 17:58:42 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 17:58:42 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:01:03 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 18:01:03 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:02:58 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:58 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:58 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:58 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:58 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 18:02:58 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:02:59 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:02:59 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 18:02:59 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180259.csv
+2025-11-14 18:02:59 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:02:59 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:04:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 18:04:12 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:04:12 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 18:04:12 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:04:12 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=5, tipo=Despesa, valor=10.00).
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180412.csv
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_180412.csv
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180412.csv
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180412.csv
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_180412.csv
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-49/test_importa_ler_linhas0/in.csv
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180412.csv
+2025-11-14 18:04:12 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180412.csv
+2025-11-14 18:04:12 | INFO | fintrack.t | hello
+2025-11-14 18:04:12 | WARNING | fintrack.tst | hello world
+2025-11-14 18:04:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 18:04:52 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:04:52 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 18:04:52 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:04:52 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=5, tipo=Despesa, valor=10.00).
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180452.csv
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_180452.csv
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180452.csv
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180452.csv
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_180452.csv
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-50/test_importa_ler_linhas0/in.csv
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180452.csv
+2025-11-14 18:04:52 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180452.csv
+2025-11-14 18:04:52 | INFO | fintrack.t | hello
+2025-11-14 18:04:52 | WARNING | fintrack.tst | hello world
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:05:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 18:05:54 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:05:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 18:05:54 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 18:05:54 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:05:54 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=5, tipo=Despesa, valor=10.00).
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-51/test_importa_ler_linhas0/in.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180554.csv
+2025-11-14 18:05:54 | INFO | fintrack.t | hello
+2025-11-14 18:05:54 | WARNING | fintrack.tst | hello world
+2025-11-14 18:09:42 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 18:09:42 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:09:42 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 18:09:42 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:09:42 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=5, tipo=Despesa, valor=10.00).
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180942.csv
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_180942.csv
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180942.csv
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180942.csv
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_180942.csv
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-55/test_importa_ler_linhas0/in.csv
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_180942.csv
+2025-11-14 18:09:42 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_180942.csv
+2025-11-14 18:09:42 | INFO | fintrack.t | hello
+2025-11-14 18:09:42 | WARNING | fintrack.tst | hello world
+2025-11-14 18:10:08 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 18:10:08 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:10:08 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 18:10:08 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:10:08 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=5, tipo=Despesa, valor=10.00).
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181008.csv
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_181008.csv
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_181008.csv
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181008.csv
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_181008.csv
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-56/test_importa_ler_linhas0/in.csv
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_181008.csv
+2025-11-14 18:10:08 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181008.csv
+2025-11-14 18:10:08 | INFO | fintrack.t | hello
+2025-11-14 18:10:08 | WARNING | fintrack.tst | hello world
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:03 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 18:12:03 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:12:57 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:12:57 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 18:12:57 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181257.csv
+2025-11-14 18:12:57 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:12:57 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:33 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:33 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:33 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 18:17:33 | INFO | fintrack.src.services.user_service | Usuário removido id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=40.00).
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=100.00).
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:17:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=2, tipo=Despesa, valor=30.00).
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=12.00).
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Despesa, valor=25.00).
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=2
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário atualizado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário removido id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação atualizada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação removida id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.category_repo | Categoria criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=1
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.transaction_repo | Transação criada id=2
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | ERROR | fintrack.src.repositories.user_repo | Erro ao salvar usuário: (sqlite3.IntegrityError) UNIQUE constraint failed: users.email
+[SQL: INSERT INTO users (name, email) VALUES (?, ?)]
+[parameters: ('E2', 'e@x.com')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-14 18:17:34 | INFO | fintrack.src.repositories.user_repo | Usuário criado id=1
+2025-11-14 18:17:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=1, tipo=Receita, valor=20.00).
+2025-11-14 18:17:34 | WARNING | fintrack.TransactionService | Transação deletada (ID=1).
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário removido id=5
+2025-11-14 18:17:34 | INFO | fintrack.src.services.user_service | Usuário criado com id=1
+2025-11-14 18:17:34 | INFO | fintrack.TransactionService | Transação criada com sucesso (ID=5, tipo=Despesa, valor=10.00).
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | 📥 2 transações importadas de exports/transactions_1_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_2_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | 📥 1 transações importadas de /private/var/folders/k0/2_tz0hhn5mb02_8xwyph07vh0000gn/T/pytest-of-alexiasuares/pytest-59/test_importa_ler_linhas0/in.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_42_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.src.utils.file_export | ✅ Arquivo CSV exportado com sucesso: exports/transactions_1_20251114_181734.csv
+2025-11-14 18:17:34 | INFO | fintrack.t | hello
+2025-11-14 18:17:34 | WARNING | fintrack.tst | hello world

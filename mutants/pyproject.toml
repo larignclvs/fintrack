@@ -1,0 +1,6 @@
+[tool.mutmut]
+# Mirror the settings from setup.cfg so mutmut picks a consistent config source
+paths_to_mutate = ["src/services/transaction_service.py"]
+also_copy = ["config", "pytest_mutants.ini", "src", "tests"]
+test_command = "python -m pytest -q tests/unit tests/specific"
+debug = true
