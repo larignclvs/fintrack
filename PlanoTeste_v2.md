@@ -70,7 +70,8 @@ Este bloco garante alinhamento com as evidências apresentadas no relatório e n
 ## 7. Abordagem de Teste
 
 ### 7.1 Funcionais — Caixa-Preta
-![alt text](image.png)
+<img width="567" height="384" alt="image" src="https://github.com/user-attachments/assets/7be8519f-6ead-4eec-abb2-7b8bfa31f2f7" />
+
 
 ### 7.2 Estruturais — Caixa-Branca
 - Cobertura de branches  
