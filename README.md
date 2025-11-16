@@ -2,8 +2,6 @@
 
 Projeto acadêmico desenvolvido com Python + FastAPI + SQLAlchemy, seguindo arquitetura modular, injeção de dependências e Repository Pattern.
 
-### Para monitoramento do progresso das atividades do grupo  
-Inclui camadas separadas, tratamento de exceções, logs rotativos, mock de repositório para testes, e documentação técnica com type hints e docstrings completas. Parte Gabi  
 
 ## 🧩 Estrutura Geral do Projeto  
 
